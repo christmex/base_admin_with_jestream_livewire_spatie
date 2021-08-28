@@ -17,7 +17,7 @@
 
 
 ## What package we used here 
-- Laravel Jetstream Bootstrap, visit [Laravel Ui](https://github.com/laravel/ui)
+- Laravel Jetstream Bootstrap, visit [Laravel Jetstream](https://jetstream.laravel.com/)
 
 
 
